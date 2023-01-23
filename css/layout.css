@@ -1,2 +1,9 @@
-.w-95{width: 95% !important;}
+/** General Width Classes**/
 
+.w-95{width: 95% !important;}
+.w-70{width: 70% !important;}
+
+/** General Padding Classes **/
+
+/** General Margin Classes **/
+.m-70{margin: 70px !important;}
